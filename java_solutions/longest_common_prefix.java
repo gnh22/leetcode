@@ -1,3 +1,4 @@
+package java_solutions;
 /*
  * August 14th, 2025
  * Leetcode 14. Longest Common Prefix
